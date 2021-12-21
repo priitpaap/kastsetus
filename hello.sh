@@ -5,3 +5,4 @@ echo "Tere maailm!"
 echo "Tänane kuupäev on:"
 date
 echo "Nägemist"
+echo "oi oi"
